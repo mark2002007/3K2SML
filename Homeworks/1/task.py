@@ -22,4 +22,4 @@ N = 100
 A = np.array([[i + j for j in range(N)] for i in range(N)])
 B = np.array([[i + j for j in range(N)] for i in range(N)])
 A*B
-""", number = 1)) git
+""", number = 1))
